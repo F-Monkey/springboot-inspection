@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-inspection
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tangjf
+Implementation-Vendor-Id: com.monkey.springboot
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-inspection
+Created-By: Maven Integration for Eclipse
+
